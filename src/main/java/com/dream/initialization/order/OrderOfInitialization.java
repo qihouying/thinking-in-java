@@ -1,4 +1,4 @@
-package com.dream.initialization;
+package com.dream.initialization.order;
 
 /** Within a class, the order of initialization is determined by the order that the variable are defined within the class.
  * the variable are initialized before any methods can be called-even the constructor

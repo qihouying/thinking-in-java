@@ -1,4 +1,4 @@
-package com.dream.initialization;
+package com.dream.initialization.order;
 
 /**
  * Created by dream on 08/04/2017.
